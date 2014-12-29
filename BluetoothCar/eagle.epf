@@ -1,0 +1,28 @@
+[Eagle]
+Version="06 06 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/mine/00_microchip.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/mine/00_jikken.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/mine/00_ir.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/mine/00_supply2.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/mine/00_relay.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/mine/00_inductors.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/mine/00_diode.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/mine/00_con-lstb.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/mine/00_kamiki.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="183 56 1196 487"
+State=2
+Number=0
+
+[Desktop]
+Screen="1366 768"
+Window="Win_1"
